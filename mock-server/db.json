@@ -1,0 +1,82 @@
+{
+  "stocks": [
+    {
+      "ticker": "BTC-USD",
+      "companyName": "Bitcoin",
+      "price": 25853.00,
+      "priceChange": -1557.56,
+      "priceChangePercentage": -5.68,
+      "image": "https://bitcoin.org/img/icons/opengraph.png",
+      "description": "Bitcoin is a decentralized digital currency...",
+      "exchange": "Cryptocurrency",
+      "ceo": "Satoshi Nakamoto",
+      "city": "N/A",
+      "state": "N/A",
+      "industry": "Cryptocurrency",
+      "sector": "Finance",
+      "ipoDate": "2009-01-03",
+      "year": ["2018", "2019", "2020", "2021", "2022"],
+      "cash": {},
+      "debt": {},
+      "earnings": {},
+      "grossProfitMargin": {},
+      "netProfitMargin": {},
+      "freeCashFlow": {},
+      "revenue": {},
+      "returnOnEquity": {},
+      "returnOnCapitalEmployed": {}
+    },
+    {
+      "ticker": "ETH-USD",
+      "companyName": "Ethereum",
+      "price": 1820.39,
+      "priceChange": -100.04,
+      "priceChangePercentage": -5.21,
+      "image": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=034",
+      "description": "Ethereum is a decentralized, open-source blockchain...",
+      "exchange": "Cryptocurrency",
+      "ceo": "Vitalik Buterin",
+      "city": "N/A",
+      "state": "N/A",
+      "industry": "Cryptocurrency",
+      "sector": "Finance",
+      "ipoDate": "2015-07-30",
+      "year": ["2018", "2019", "2020", "2021", "2022"],
+      "cash": {},
+      "debt": {},
+      "earnings": {},
+      "grossProfitMargin": {},
+      "netProfitMargin": {},
+      "freeCashFlow": {},
+      "revenue": {},
+      "returnOnEquity": {},
+      "returnOnCapitalEmployed": {}
+    }
+  ],
+  "stockPrices": [
+    {
+      "ticker": "BTC-USD",
+      "prices": [
+        { "value": 27410.56, "date": "2024-09-01" },
+        { "value": 27600.43, "date": "2024-09-02" },
+        { "value": 27550.21, "date": "2024-09-03" },
+        { "value": 27300.67, "date": "2024-09-04" },
+        { "value": 26952.78, "date": "2024-09-05" },
+        { "value": 26005.23, "date": "2024-09-06" },
+        { "value": 25853.00, "date": "2024-09-07" }
+      ]
+    },
+    {
+      "ticker": "ETH-USD",
+      "prices": [
+        { "value": 1920.43, "date": "2024-09-01" },
+        { "value": 1950.29, "date": "2024-09-02" },
+        { "value": 1940.10, "date": "2024-09-03" },
+        { "value": 1902.67, "date": "2024-09-04" },
+        { "value": 1869.45, "date": "2024-09-05" },
+        { "value": 1850.00, "date": "2024-09-06" },
+        { "value": 1820.39, "date": "2024-09-07" }
+      ]
+    }
+  ]
+}
